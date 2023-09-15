@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scout’s website",
+    "section": "",
+    "text": "Hi I’m Scout. This is my website for lab2 of DSCI 521.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
